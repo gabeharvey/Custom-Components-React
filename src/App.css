@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -71,4 +72,5 @@ footer {
 
 .main-list {
   list-style: none;
+  color: beige;
 }
