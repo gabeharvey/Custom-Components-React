@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 
 function Test () {
     return (
@@ -15,7 +16,7 @@ function Paragraph () {
 function Segment () {
     return (
         <div>
-            <ol>
+            <ol className="nav-items">
                 <li>Test 1</li>
                 <li>Test 2</li>
                 <li>Test 3</li>
