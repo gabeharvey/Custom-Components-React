@@ -39,4 +39,6 @@
 
 .nav-items {
   list-style: none;
+  display: flex;
+  justify-content: end;
 }
