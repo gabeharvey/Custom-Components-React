@@ -59,4 +59,7 @@
 
 .main-header {
   font-family: Honk, cursive;
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
 }
