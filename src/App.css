@@ -39,11 +39,12 @@
 
 .main-nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .nav-items {
   list-style: none;
   display: flex;
   justify-content: end;
+  margin: 10px;
 }
