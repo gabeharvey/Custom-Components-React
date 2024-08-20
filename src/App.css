@@ -1,3 +1,7 @@
+#root {
+  background-color: #282c34;
+}
+
 .App {
   text-align: center;
   background-color: #282c34;
@@ -71,9 +75,12 @@ footer {
   display: flex;
   justify-content: center;
   color: beige;
+  font-weight: 500;
 }
 
 .main-list {
   list-style: none;
   color: beige;
+  font-weight: 900;
+  font-size: x-large;
 }
