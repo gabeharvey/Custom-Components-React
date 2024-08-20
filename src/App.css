@@ -37,6 +37,11 @@
   }
 }
 
+.main-nav {
+  display: flex;
+  justify-content: center;
+}
+
 .nav-items {
   list-style: none;
   display: flex;
