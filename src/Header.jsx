@@ -4,7 +4,7 @@ import "./App.css";
 
 function Header () {
     return (
-        <header>
+        <header className='App'>
             <nav className="main-nav">
                 <img className='logo-style' src={logo} alt="logo"></img>
                 <ul className='nav-items'>

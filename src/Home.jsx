@@ -3,7 +3,7 @@ import "./App.css";
 
 function Home () {
     return (
-        <div>
+        <div className="App">
             <h1 className='main-header'>This is Gabe's React Page</h1>
             <ul className="main-list">
                 <li>I enjoy learning React because it is a hirable skill.</li>

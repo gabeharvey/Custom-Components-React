@@ -48,10 +48,12 @@
   display: flex;
   justify-content: end;
   margin: 10px;
+  color: beige;
 }
 
 .nav-items li {
   margin: 10px;
+  color: beige;
 }
 
 .logo-style {
@@ -68,6 +70,7 @@
 footer {
   display: flex;
   justify-content: center;
+  color: beige;
 }
 
 .main-list {
